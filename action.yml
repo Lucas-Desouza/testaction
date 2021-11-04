@@ -1,0 +1,5 @@
+name: 'Test Context'
+description: 'Prints the current context'
+runs:
+  using: 'node12'
+  main: 'index.js'
